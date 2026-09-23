@@ -1,0 +1,29 @@
+# Front Door AI Index — zenline-ai — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: zenline-ai
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.tryzenline.ai
+  final_host: www.tryzenline.ai
+  ownership: own
+  owner: zenline-ai
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 20
+  host_score: 20
+  density: 45.66
+  words: 438
+  tiers:
+    agentic: 3
+    core: 17
+    model: 0
+  ambiguous: 8
+  top_terms:
+    AI: 16
+    intelligence: 5
+    AI agent: 3
+    agent: 3
+    artificial intelligence: 1
